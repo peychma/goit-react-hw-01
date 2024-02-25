@@ -1,5 +1,8 @@
+// eslint-disable-next-line no-unused-vars
 import React from 'react';
 import css from "./History.module.css"
+
+console.log(123)
 
 const History = ({ items }) => {
   return (
