@@ -1,0 +1,29 @@
+.table {
+    padding: 4px 0px;
+    border-collapse: collapse;
+    border: 1px solid black;
+}
+.tac {
+    background-color: rgb(35, 35, 35);
+    color: white;
+    text-align: center;
+}
+.par {
+    padding: 5px 50px;
+    border: 1px solid black;
+    font-size: 12px;
+}
+.paragraf {
+    color: black;
+    text-align: left;
+    padding: 2px 60px;
+    border: 1px solid black;
+    font-size: 12px;
+}
+.trodd {
+    background-color: white;
+}
+
+.treven {
+    background-color: gainsboro;
+}

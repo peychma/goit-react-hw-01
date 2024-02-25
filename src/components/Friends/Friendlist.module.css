@@ -1,0 +1,28 @@
+.friendlist {
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    gap: 8px;
+    padding: 0;
+}
+.friendlistdiv {
+    background-color: white;
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 8px 8px;
+}
+.paragraf {
+    margin: 0;
+    color: black;
+    font-size: 16px;
+}
+.par {
+    font-size: 12px;
+    margin: 0;
+}
+.online {
+    color: green;
+}
+.offline {
+    color: red;
+}
